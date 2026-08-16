@@ -1,1 +1,16 @@
 Hello-Git
+Hello-Git
+
+This is my first Git practice project.
+
+Git commands I learned:
+1. git init
+2. git status
+3. git add
+4. git commit
+5. git push
+6. git pull
+7. git clone
+
+Python example:
+print("Hello from Git!")
